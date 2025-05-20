@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu880&label=Profile%20views&color=0e75b6&style=flat" alt="kavindu880" /> </p>
 
-- 🌱 I’m currently learning **Full-stack development & Game development,Docker,Jenkins, Kubernetes,Azure**
+- 🌱 I’m currently learning **Full-stack development & Game development**
 
 - 💬 Ask me about **C++,Java,mysql**
 
